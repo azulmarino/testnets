@@ -1,0 +1,17 @@
+{
+  "node_id": "ec3a716a914ac18e0c8ee4b0cdc7d281105a3ae5",
+  "ip": "172.17.0.2",
+  "validator": {
+    "pub_key": {
+      "type": "tendermint/PubKeyEd25519",
+      "value": "vRi7gZfTSGwCcLx+qPKyzx2eG/isDBa7TjG0O1bI+cg="
+    },
+    "power": "100",
+    "name": ""
+  },
+  "app_gen_tx": {
+    "name": "azulmarino",
+    "address": "faa13a3zqgrwr9fqwfc859qd8q6pwlsdn348vj2rm9",
+    "pub_key": "fap1zcjduepqh5vthqvh6dyxcqnsh3l23u4jeuweuxlc4sxpdw6wxx6rk4kgl8yqvndydu"
+  }
+}
